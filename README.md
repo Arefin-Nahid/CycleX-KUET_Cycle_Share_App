@@ -89,7 +89,7 @@ CycleX ensures secure authentication and transactions via Firebase.
 ---
 
 ## 👨‍💻 Authors  
-- **Arefin Nahid** (Lead Developer)  
+- **Arefin Nahid** 
 - Contributors are welcome!  
 
 ---
@@ -100,5 +100,5 @@ Licensed under the MIT License - see the [LICENSE](LICENSE) file.
 ---
 
 ## 🌐 Connect with Us  
-- **Email**: your-email@example.com  
-- **GitHub**: [your-username](https://github.com/your-username)  
+- **Email**: nahid7ar@gmail.com  
+- **GitHub**: [Arefin NahiD](https://github.com/Arefin-Nahid/)  
